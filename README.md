@@ -30,7 +30,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rabeimohmmed9?theme=dark&font=Fira%20Code)  
 
 🔥 **Codeforces Rating:**  
-![Codeforces Rating](https://cf.leed.at?id=Drews2)  
+![Codeforces Rating](https://cf.leed.at?id=Mohammed_Rabei)  
 
 
 ---
