@@ -5,7 +5,7 @@
 
 # 🚀 Mohammed Rabie | Competitive Programmer  
 
-🔹 **Codeforces:** [Drews2](https://codeforces.com/profile/Drews2)  
+🔹 **Codeforces:** [Mohammed_Rabei](https://codeforces.com/profile/Drews2)  
 🔹 **LeetCode:** [rabeimohmmed9](https://leetcode.com/rabeimohmmed9)  
 🔹 **LinkedIn:** [Mohammed Rabie](https://www.linkedin.com/in/mohmmed-rabie-7b7125305/)  
 🔹 **Email:** [rabeimohmmed9@gmail.com](mailto:rabeimohmmed9@gmail.com)  
@@ -40,7 +40,7 @@
 ## 📫 **Contact Me!**  
 
 📧 **Email:** [rabeimohmmed9@gmail.com](mailto:rabeimohmmed9@gmail.com)  
-🌍 **Codeforces:** [Drews2](https://codeforces.com/profile/Drews2)  
+🌍 **Codeforces:** [Mohammed_Rabei](https://codeforces.com/profile/Drews2)  
 🔗 **LinkedIn:** [Mohammed Rabie](https://www.linkedin.com/in/mohmmed-rabie-7b7125305/)  
 
 💡 **Always open to collaborations, projects, and new challenges!** 🚀  
