@@ -46,8 +46,5 @@
 💡 **Always open to collaborations, projects, and new challenges!** 🚀  
 
 ---
-
-## ⭐ **Support My Work!**  
-
-If you like my work, consider giving it a **⭐ on GitHub!** 🚀  
+ 
 
