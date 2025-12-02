@@ -3,12 +3,13 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding Animation">
 </p>
 
-# 🚀 Mohammed Rabie | Competitive Programmer  
+# 🚀 Mohammed Rabie | Competitive Programmer  | AI Engineer
 
 🔹 **Codeforces:** [Mohammed_Rabei](https://codeforces.com/profile/Drews2)  
 🔹 **LeetCode:** [rabeimohmmed9](https://leetcode.com/rabeimohmmed9)  
 🔹 **LinkedIn:** [Mohammed Rabie](https://www.linkedin.com/in/mohmmed-rabie-7b7125305/)  
 🔹 **Email:** [rabeimohmmed9@gmail.com](mailto:rabeimohmmed9@gmail.com)  
+🔹 **Kaggle** [Mohmmed Rabei](https://www.kaggle.com/mohmmedrabei)
 
 📌 **Competitive Programmer | Problem Solver | Algorithm Enthusiast**  
 
