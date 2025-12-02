@@ -39,7 +39,7 @@
 ## 🏆 **Competitive Programming Stats**  
 
 📈 **LeetCode Stats:**  
-![LeetCode Stats](https://leetcard.jacoblin.cool/rabeimohmmed9?theme=dark&font=Fira%20Code)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Mohammed_Ahmed_Rabei?theme=dark&font=Fira%20Code)  
 
 🔥 **Codeforces Rating:**  
 ![Codeforces Rating](https://cf.leed.at?id=Mohammed_Rabei)  
